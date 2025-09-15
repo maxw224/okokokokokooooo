@@ -1,0 +1,185 @@
+<html lang="en" style="--main-color: #aa00ff; --faded-main-color: rgba(170, 1, 255, 0.26); --background-image: url(\/assets\/imgs\/DDX\.bg\.jpeg); --logo: url(\/assets\/imgs\/logo\.png);"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DayDream X</title>
+  <link rel="stylesheet" href="/assets/css/vars.css">
+  <link rel="stylesheet" href="/assets/css/imports.css">
+  <link rel="stylesheet" href="/assets/css/global.css">
+  <link rel="stylesheet" href="/assets/css/tabs.css">
+  <link rel="stylesheet" href="/assets/css/utilitybar.css">
+  <link rel="stylesheet" href="/assets/css/search.css">
+  <link rel="stylesheet" href="/assets/css/sidepanel.css">
+  <link rel="icon" type="icon/x-icon" href="/assets/imgs/logo.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your Favorite Browser Fusion of Opera, Arc, &amp; Opera GX">
+  <meta name="keywords" content="Proxy, Unblocker, Daydream, Daydream Browser, Daydream Browser Proxy, Daydream Browser Unblocker, Daydream Browser VPN">
+  <meta property="og:image" content="/assets/imgs/logo.png">
+
+  <!-- Google tag (gtag.js) -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-BMERY7ZH6Z"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-BMERY7ZH6Z');
+  </script>
+</head>
+
+<body>
+  <!--Root DIV-->
+  <div id="browser-container"><div class="surface"><div class="tabs" style="--tab-content-margin: 9px;"><div class="bottom-buttons"><div class="bottom-button" id="settings"><span class="material-symbols-outlined">construction</span></div><div class="bottom-button" id="closeAllTabs"><span class="material-symbols-outlined">tab_close</span></div></div><div class="tabs-content" id="tab-groups"><div class="tab" id="tab-1" style="width: 240px;"><div class="tab-background"></div><div class="tab-content"><div class="tab-group-color"></div><div class="tab-favicon" style="background-image: url(&quot;/internal/icons/https%3A%2F%2Fdaydreamx.pro%2Fassets%2Fimgs%2Flogo.png&quot;);"></div><div class="tab-title">DDX Games</div><div class="tab-drag-handle" style="touch-action: none;"></div><button class="tab-close" id="close-tab-1"><span class="material-symbols-outlined">close</span></button></div><div class="tab-bottom-border"></div></div><div class="tab active" id="tab-2" style="width: 240px;"><div class="tab-background"></div><div class="tab-content"><div class="tab-group-color"></div><div class="tab-favicon"></div><div class="tab-title">New Tab</div><div class="tab-drag-handle" style="touch-action: none;"></div><button class="tab-close" id="close-tab-2"><span class="material-symbols-outlined">close</span></button></div><div class="tab-bottom-border"></div></div></div><div class="browser-button" id="create-tab" style="transform: translate(512px);"><span class="material-symbols-outlined">add</span><span class="title">New Tab</span></div></div><div class="under-tabs"><div class="tabs-bottom-bar"></div><ul class="utility"><li><div class="utilityIcon" id="toggleTabs"><span class="material-symbols-outlined">thumbnail_bar</span></div></li><li><div class="utilityIcon" id="home"><span class="material-symbols-outlined">home</span></div></li><li><div class="utilityIcon" id="backward"><span class="material-symbols-outlined backButton">arrow_back</span></div></li><li><div class="utilityIcon" id="reload"><span class="material-symbols-outlined refreshButton">refresh</span></div></li><li><div class="utilityIcon" id="forward"><span class="material-symbols-outlined forwardButton">arrow_forward</span></div></li><div class="search-header" style="flex-grow: 1; margin-left: 8px; margin-right: 8px;"><input placeholder="Enter search or web address" class="search-header__input" id="uv-address" type="text" autocomplete="off"><div class="webSecurityIcon"></div><button aria-label="search" type="submit" class="search-header__button" style="cursor: default; position: absolute; margin-left: 7px; margin-bottom: -2px;"><svg fill="none" viewbox="0 0 18 18" height="18" width="18" class="search-header__icon"><path fill="#3A3A3A" d="M7.132 0C3.197 0 0 3.124 0 6.97c0 3.844 3.197 6.969 7.132 6.969 1.557 0 2.995-.49 4.169-1.32L16.82 18 18 16.847l-5.454-5.342a6.846 6.846 0 0 0 1.718-4.536C14.264 3.124 11.067 0 7.132 0zm0 .82c3.48 0 6.293 2.748 6.293 6.15 0 3.4-2.813 6.149-6.293 6.149S.839 10.37.839 6.969C.839 3.568 3.651.82 7.132.82z"></path></svg></button></div><div class="right"><li><div class="utilityIcon" id="bookmark"><span class="material-symbols-outlined bookmarkButton">star</span></div></li><li><div class="coming-soon" id="extensions"><span class="material-symbols-outlined">deployed_code</span></div></li><li><div class="coming-soon" id="profiles"><span class="material-symbols-outlined">group</span></div></li><li><div class="utilityIcon" id="more-options"><span class="material-symbols-outlined erudaButton">more_horiz</span></div></li></div></ul></div><div class="viewport"><div class="iframe-container" id="iframe-container"><iframe src="/internal/games" id="iframe-1" class=""></iframe><iframe src="/internal/newtab" id="iframe-2" class="active"></iframe></div></div></div><ul class="navbar"><div class="logo"></div><br><div class="section"><li><div id="gamesShortcut" title="Games"><span class="material-symbols-outlined">sports_esports</span></div></li><hr><li><div id="aiShortcut" class="coming-soon" title="COMING SOON"><span class="material-symbols-outlined">robot_2</span></div></li><li><div id="chatShortcut"><span class="material-symbols-outlined">forum</span></div></li><hr><li><div id="musicShortcut" class="coming-soon" title="Music"><span class="material-symbols-outlined">headphones</span></div></li><hr><li><div id="historyShortcut" title="History"><span class="material-symbols-outlined">history</span></div></li><li><div id="settShortcut" title="Settings"><span class="material-symbols-outlined" style="margin-top: 0px;">tune</span></div></li></div></ul><style>
+        .tabs-content .tab:nth-child(1) {
+          transform: translate3d(13px, 0, 0)
+        }
+      
+        .tabs-content .tab:nth-child(2) {
+          transform: translate3d(252px, 0, 0)
+        }
+      </style></div>
+  <!--Libs-->
+  <script src="/assets/js/lib/js-cookie/js.cookie.min.js"></script>
+  <script src="/assets/js/lib/localforage/localforage.min.js"></script>
+  <script src="/assets/js/lib/wisp-client-js/wisp-client.js"></script>
+  <script src="/assets/js/lib/draggability/draggabilly.pkgd.js"></script>
+  <script src="/assets/js/lib/Nightmare/nightmare.js"></script>
+  <!--Pro*y Files-->
+  <script src="/baremux/index.js"></script>
+  <script src="/@/uv.bundle.js"></script>
+  <script src="/@/uv.config.js"></script>
+  <script src="/$/scramjet.config.js"></script>
+  <script src="/$/scramjet.controller.js"></script>
+  <script src="/~/eclipse.codecs.js"></script>
+  <script src="/~/eclipse.config.js"></script>
+  <script src="/&amp;/sandstone.js"></script>
+  <!--APIs-->
+  <script src="/assets/js/apis/events.js"></script>
+  <script src="/assets/js/apis/logging.js"></script>
+  <script src="/assets/js/apis/profiles.js"></script>
+  <script src="/assets/js/apis/settings.js"></script>
+  <script src="/assets/js/apis/extensions.js"></script>
+  <script src="/assets/js/apis/versions.js"></script>
+  <script src="/assets/js/apis/exporting.js"></script>
+  <script src="/assets/js/apis/proxy.js"></script>
+  <!--Other files-->
+  <script src="/assets/js/global/theming.js"></script>
+  <script src="/assets/js/global/index.js"></script>
+  <script src="/assets/js/browser/render.js"></script>
+  <script src="/assets/js/browser/items.js"></script>
+  <script src="/assets/js/browser/nightmarePlugins.js"></script>
+  <script src="/assets/js/browser/windowing.js"></script>
+  <script src="/assets/js/browser/functions.js"></script>
+  <script src="/assets/js/browser/keys.js"></script>
+  <script src="/assets/js/utils.js"></script>
+  <script src="/assets/js/browser/tabs.js"></script>
+  <script src="/assets/js/browser/search.js"></script>
+
+  <script src="/assets/js/index.js" defer=""></script>
+
+
+<div class="suggestion-list" id="suggestion-list"><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Search Results</span></div><div class="search-results"></div></div><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Other Pages</span></div><div class="search-results"></div></div><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Settings</span></div><div class="search-results"></div></div><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Games</span></div><div class="search-results"></div></div></div></body></html><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DayDream X</title>
+  <link rel="stylesheet" href="/assets/css/vars.css">
+  <link rel="stylesheet" href="/assets/css/imports.css">
+  <link rel="stylesheet" href="/assets/css/global.css">
+  <link rel="stylesheet" href="/assets/css/tabs.css">
+  <link rel="stylesheet" href="/assets/css/utilitybar.css">
+  <link rel="stylesheet" href="/assets/css/search.css">
+  <link rel="stylesheet" href="/assets/css/sidepanel.css">
+  <link rel="icon" type="icon/x-icon" href="/assets/imgs/logo.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your Favorite Browser Fusion of Opera, Arc, &amp; Opera GX">
+  <meta name="keywords" content="Proxy, Unblocker, Daydream, Daydream Browser, Daydream Browser Proxy, Daydream Browser Unblocker, Daydream Browser VPN">
+  <meta property="og:image" content="/assets/imgs/logo.png">
+
+  <!-- Google tag (gtag.js) -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-BMERY7ZH6Z"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-BMERY7ZH6Z');
+  </script>
+</head><html lang="en" style="--main-color: #aa00ff; --faded-main-color: rgba(170, 1, 255, 0.26); --background-image: url(\/assets\/imgs\/DDX\.bg\.jpeg); --logo: url(\/assets\/imgs\/logo\.png);"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DayDream X</title>
+  <link rel="stylesheet" href="/assets/css/vars.css">
+  <link rel="stylesheet" href="/assets/css/imports.css">
+  <link rel="stylesheet" href="/assets/css/global.css">
+  <link rel="stylesheet" href="/assets/css/tabs.css">
+  <link rel="stylesheet" href="/assets/css/utilitybar.css">
+  <link rel="stylesheet" href="/assets/css/search.css">
+  <link rel="stylesheet" href="/assets/css/sidepanel.css">
+  <link rel="icon" type="icon/x-icon" href="/assets/imgs/logo.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your Favorite Browser Fusion of Opera, Arc, &amp; Opera GX">
+  <meta name="keywords" content="Proxy, Unblocker, Daydream, Daydream Browser, Daydream Browser Proxy, Daydream Browser Unblocker, Daydream Browser VPN">
+  <meta property="og:image" content="/assets/imgs/logo.png">
+
+  <!-- Google tag (gtag.js) -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-BMERY7ZH6Z"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-BMERY7ZH6Z');
+  </script>
+</head>
+
+<body>
+  <!--Root DIV-->
+  <div id="browser-container"><div class="surface"><div class="tabs" style="--tab-content-margin: 9px;"><div class="bottom-buttons"><div class="bottom-button" id="settings"><span class="material-symbols-outlined">construction</span></div><div class="bottom-button" id="closeAllTabs"><span class="material-symbols-outlined">tab_close</span></div></div><div class="tabs-content" id="tab-groups"><div class="tab" id="tab-1" style="width: 240px;"><div class="tab-background"></div><div class="tab-content"><div class="tab-group-color"></div><div class="tab-favicon" style="background-image: url(&quot;/internal/icons/https%3A%2F%2Fdaydreamx.pro%2Fassets%2Fimgs%2Flogo.png&quot;);"></div><div class="tab-title">DDX Games</div><div class="tab-drag-handle" style="touch-action: none;"></div><button class="tab-close" id="close-tab-1"><span class="material-symbols-outlined">close</span></button></div><div class="tab-bottom-border"></div></div><div class="tab active" id="tab-2" style="width: 240px;"><div class="tab-background"></div><div class="tab-content"><div class="tab-group-color"></div><div class="tab-favicon"></div><div class="tab-title">New Tab</div><div class="tab-drag-handle" style="touch-action: none;"></div><button class="tab-close" id="close-tab-2"><span class="material-symbols-outlined">close</span></button></div><div class="tab-bottom-border"></div></div></div><div class="browser-button" id="create-tab" style="transform: translate(512px);"><span class="material-symbols-outlined">add</span><span class="title">New Tab</span></div></div><div class="under-tabs"><div class="tabs-bottom-bar"></div><ul class="utility"><li><div class="utilityIcon" id="toggleTabs"><span class="material-symbols-outlined">thumbnail_bar</span></div></li><li><div class="utilityIcon" id="home"><span class="material-symbols-outlined">home</span></div></li><li><div class="utilityIcon" id="backward"><span class="material-symbols-outlined backButton">arrow_back</span></div></li><li><div class="utilityIcon" id="reload"><span class="material-symbols-outlined refreshButton">refresh</span></div></li><li><div class="utilityIcon" id="forward"><span class="material-symbols-outlined forwardButton">arrow_forward</span></div></li><div class="search-header" style="flex-grow: 1; margin-left: 8px; margin-right: 8px;"><input placeholder="Enter search or web address" class="search-header__input" id="uv-address" type="text" autocomplete="off"><div class="webSecurityIcon"></div><button aria-label="search" type="submit" class="search-header__button" style="cursor: default; position: absolute; margin-left: 7px; margin-bottom: -2px;"><svg fill="none" viewbox="0 0 18 18" height="18" width="18" class="search-header__icon"><path fill="#3A3A3A" d="M7.132 0C3.197 0 0 3.124 0 6.97c0 3.844 3.197 6.969 7.132 6.969 1.557 0 2.995-.49 4.169-1.32L16.82 18 18 16.847l-5.454-5.342a6.846 6.846 0 0 0 1.718-4.536C14.264 3.124 11.067 0 7.132 0zm0 .82c3.48 0 6.293 2.748 6.293 6.15 0 3.4-2.813 6.149-6.293 6.149S.839 10.37.839 6.969C.839 3.568 3.651.82 7.132.82z"></path></svg></button></div><div class="right"><li><div class="utilityIcon" id="bookmark"><span class="material-symbols-outlined bookmarkButton">star</span></div></li><li><div class="coming-soon" id="extensions"><span class="material-symbols-outlined">deployed_code</span></div></li><li><div class="coming-soon" id="profiles"><span class="material-symbols-outlined">group</span></div></li><li><div class="utilityIcon" id="more-options"><span class="material-symbols-outlined erudaButton">more_horiz</span></div></li></div></ul></div><div class="viewport"><div class="iframe-container" id="iframe-container"><iframe src="/internal/games" id="iframe-1" class=""></iframe><iframe src="/internal/newtab" id="iframe-2" class="active"></iframe></div></div></div><ul class="navbar"><div class="logo"></div><br><div class="section"><li><div id="gamesShortcut" title="Games"><span class="material-symbols-outlined">sports_esports</span></div></li><hr><li><div id="aiShortcut" class="coming-soon" title="COMING SOON"><span class="material-symbols-outlined">robot_2</span></div></li><li><div id="chatShortcut"><span class="material-symbols-outlined">forum</span></div></li><hr><li><div id="musicShortcut" class="coming-soon" title="Music"><span class="material-symbols-outlined">headphones</span></div></li><hr><li><div id="historyShortcut" title="History"><span class="material-symbols-outlined">history</span></div></li><li><div id="settShortcut" title="Settings"><span class="material-symbols-outlined" style="margin-top: 0px;">tune</span></div></li></div></ul><style>
+        .tabs-content .tab:nth-child(1) {
+          transform: translate3d(13px, 0, 0)
+        }
+      
+        .tabs-content .tab:nth-child(2) {
+          transform: translate3d(252px, 0, 0)
+        }
+      </style></div>
+  <!--Libs-->
+  <script src="/assets/js/lib/js-cookie/js.cookie.min.js"></script>
+  <script src="/assets/js/lib/localforage/localforage.min.js"></script>
+  <script src="/assets/js/lib/wisp-client-js/wisp-client.js"></script>
+  <script src="/assets/js/lib/draggability/draggabilly.pkgd.js"></script>
+  <script src="/assets/js/lib/Nightmare/nightmare.js"></script>
+  <!--Pro*y Files-->
+  <script src="/baremux/index.js"></script>
+  <script src="/@/uv.bundle.js"></script>
+  <script src="/@/uv.config.js"></script>
+  <script src="/$/scramjet.config.js"></script>
+  <script src="/$/scramjet.controller.js"></script>
+  <script src="/~/eclipse.codecs.js"></script>
+  <script src="/~/eclipse.config.js"></script>
+  <script src="/&amp;/sandstone.js"></script>
+  <!--APIs-->
+  <script src="/assets/js/apis/events.js"></script>
+  <script src="/assets/js/apis/logging.js"></script>
+  <script src="/assets/js/apis/profiles.js"></script>
+  <script src="/assets/js/apis/settings.js"></script>
+  <script src="/assets/js/apis/extensions.js"></script>
+  <script src="/assets/js/apis/versions.js"></script>
+  <script src="/assets/js/apis/exporting.js"></script>
+  <script src="/assets/js/apis/proxy.js"></script>
+  <!--Other files-->
+  <script src="/assets/js/global/theming.js"></script>
+  <script src="/assets/js/global/index.js"></script>
+  <script src="/assets/js/browser/render.js"></script>
+  <script src="/assets/js/browser/items.js"></script>
+  <script src="/assets/js/browser/nightmarePlugins.js"></script>
+  <script src="/assets/js/browser/windowing.js"></script>
+  <script src="/assets/js/browser/functions.js"></script>
+  <script src="/assets/js/browser/keys.js"></script>
+  <script src="/assets/js/utils.js"></script>
+  <script src="/assets/js/browser/tabs.js"></script>
+  <script src="/assets/js/browser/search.js"></script>
+
+  <script src="/assets/js/index.js" defer=""></script>
+
+
+<div class="suggestion-list" id="suggestion-list"><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Search Results</span></div><div class="search-results"></div></div><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Other Pages</span></div><div class="search-results"></div></div><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Settings</span></div><div class="search-results"></div></div><div class="search-section"><div class="search-title"><img class="searchEngineIcon" src="/assets/imgs/logo.png"><span>Games</span></div><div class="search-results"></div></div></div></body></html>
